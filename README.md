@@ -8,7 +8,7 @@ Solutions will be organized by day, with each day in its own directory or file.
 
 ## Progress
 
-- [ ] Day 1
+- [x] Day 1
 - [ ] Day 2
 - [ ] Day 3
 - [ ] Day 4
